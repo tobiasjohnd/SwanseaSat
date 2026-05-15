@@ -18,7 +18,7 @@ An improved version of the sat solver I wrote for my end of year project at Swan
 - fixed some bugs that i found when i improved the testing.
 
 ## future improvements
-these are some further improvements id like to make to the solver int the future although this will most likley be done in a rewrite.
+these are some further improvements id like to try make to the solver in the future when i find a spare weekend or two.
 - more complete CLI interface.
 - more eficient memory management.
 - a range of variable selection huristics.
